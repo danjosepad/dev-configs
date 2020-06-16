@@ -7,6 +7,7 @@ Espero que assim como me ajuda, possa ajudar a alguém que esteja configurando s
 
 Algo que facilita muito o meu dia-a-dia são algumas das configs que uso no VSCode, dentre elas são: 
 
+```javascript
 {
     "breadcrumbs.enabled": true, // Visualiza o caminho do arquivo no topo superior
     "editor.codeActionsOnSave": {
@@ -35,5 +36,5 @@ Algo que facilita muito o meu dia-a-dia são algumas das configs que uso no VSCo
     "workbench.iconTheme": "material-icon-theme", // Grupo de icones para arquivos, pastas
     "workbench.startupEditor": "newUntitledFile", //Inicia com um arquivo em branco
 }
-
+```
 ## :crystal_ball: Extensões

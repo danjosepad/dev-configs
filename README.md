@@ -38,3 +38,7 @@ Algo que facilita muito o meu dia-a-dia são algumas das configs que uso no VSCo
 }
 ```
 ## :crystal_ball: Extensões
+
+### Dracula Official 
+ Meu tema preferido no VS Code, deixa tudo muito explicito (Minha opinião)
+

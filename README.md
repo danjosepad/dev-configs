@@ -42,3 +42,7 @@ Algo que facilita muito o meu dia-a-dia são algumas das configs que uso no VSCo
 ### Dracula Official 
  Meu tema preferido no VS Code, deixa tudo muito explicito (Minha opinião)
 
+### vs-styled-components
+ Melhora a visualização do uso do Styled Components
+
+### Prettier

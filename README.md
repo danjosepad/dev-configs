@@ -46,3 +46,6 @@ Algo que facilita muito o meu dia-a-dia são algumas das configs que uso no VSCo
  Melhora a visualização do uso do Styled Components
 
 ### Prettier
+ Melhora a visualização do código
+ 
+### Eslint

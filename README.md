@@ -49,3 +49,7 @@ Algo que facilita muito o meu dia-a-dia são algumas das configs que uso no VSCo
  Melhora a visualização do código
  
 ### Eslint
+
+### Color Highlight
+
+ Melhora a visualização de cores enquanto trabalha no VS Code

@@ -53,3 +53,11 @@ Algo que facilita muito o meu dia-a-dia são algumas das configs que uso no VSCo
 ### Color Highlight
 
  Melhora a visualização de cores enquanto trabalha no VS Code
+ 
+### Code Runner
+ 
+ Com essa extensão, se torna possível testar seus códigos através do próprio VS Code
+ 
+### DotENV
+
+ Suporte à sintaxe dos arquivos .env
